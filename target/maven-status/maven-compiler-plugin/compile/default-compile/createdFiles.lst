@@ -1,0 +1,7 @@
+com\test\homecredit\controller\usermodule\UserModuleController.class
+com\test\homecredit\entity\UserModuleResults.class
+com\test\homecredit\dao\UserModuleDAO.class
+com\test\homecredit\HomeCreditApplication.class
+com\test\homecredit\entity\User.class
+com\test\homecredit\entity\Module.class
+com\test\homecredit\entity\UserModule.class
